@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/CyberRyder/randomizer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Hello
+Hello [here](https://www.smogon.com/forums/threads/hi-any-feedbacks-on-this-gen-6-ou-team.3652613/) is a link.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
