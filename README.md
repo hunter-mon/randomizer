@@ -37,7 +37,7 @@ I am planning to make a ~~randamizer~~ randomizer for pokemon.
 - Cool
 
 
-<scrip>$( "#target" ).click(function() {
+<script>$( "#target" ).click(function() {
   alert( "Handler for .click() called." );
 });
 </script>
