@@ -30,7 +30,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ~~Markdown~~ 
 
-<div id="target">
+<div id="target">RANDOMIZE</div>
+
 
 I am planning to make a ~~randamizer~~ randomizer for pokemon.
 - This
@@ -38,7 +39,6 @@ I am planning to make a ~~randamizer~~ randomizer for pokemon.
 - So
 - Cool
 
-</div>
 
 Syntax highlighted code block
 
