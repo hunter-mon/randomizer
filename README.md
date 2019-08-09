@@ -38,6 +38,7 @@ Syntax highlighted code block
 ![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
 Clawitzer
 Type: Water
+
 Moveset:
 
 -
