@@ -31,13 +31,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 To randomize, click RANDOMIZE.
-- Squirtle
-- Popplio
-- Mudkip
-- Totodile
-- Oshwott
-- Froakie
-- Piplup
+- Bulbasaur
+- Treecko
+- Chespin
+- Snivy
+- Rowlet
+- Chikorita
+- Turtwig
 
 <script>$( "#target" ).click(function() {
   $('ul').randomize();
