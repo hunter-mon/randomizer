@@ -1,3 +1,8 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script></script>
+ 
+<div id="text"></div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CyberRyder/randomizer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
