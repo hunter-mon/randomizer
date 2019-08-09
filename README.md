@@ -55,7 +55,7 @@ Moveset:
 
 For the last slot it is really just what your team needs most. Also, Water Pulse>Scald because thanks to Mega Launcher (Clawitzers Ability) Water Pulse has more power and a chance to confuse.
 
-For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this].(https://pokemondb.net/pokedex/clawitzer)
+For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this](https://pokemondb.net/pokedex/clawitzer).
 
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
