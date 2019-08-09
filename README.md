@@ -31,11 +31,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 I am planning to make a ~~randamizer~~ randomizer for pokemon.
-- This
-- Is
-- So
-- Cool
-
+- Torchic
+- Litten
+- Charmander
+- Fenniken
+- Cyndaquill
+- Tepig
+- Chimchar
 
 <script>$( "#target" ).click(function() {
   $('ul').randomize();
