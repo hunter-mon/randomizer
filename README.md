@@ -13,6 +13,9 @@ I am planning to make a ~~randamizer~~ randomizer for pokemon.
 - Is
 - So
 - Cool
+
+Syntax highlighted code block
+
 ```markdown
 Syntax highlighted code block
 
@@ -28,9 +31,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+```
+
 [Link](url) and ![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
