@@ -33,9 +33,20 @@ Syntax highlighted code block
 
 ```
 
-[Link](url) and ![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
+[Link](url)
 
+![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
+Clawitzer
+Type: Water
+Moveset:
 
+-
+
+-
+
+-
+
+-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
