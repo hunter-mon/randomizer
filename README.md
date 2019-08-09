@@ -6,7 +6,7 @@ Hello [here](https://pokemondb.net/news/260/new-sword-shield-trailer-reveals-gal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+~~### Markdown~~
 
 I am planning to make a ~~randamizer~~ randomizer for pokemon.
 ```markdown
