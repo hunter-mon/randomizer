@@ -12,9 +12,6 @@
 
     return this;
 };
-$( "#target" ).click(function() {
-  alert( "Handler for .click() called." );
-});
 $('ul').randomize();
 </script>
  
@@ -39,6 +36,11 @@ I am planning to make a ~~randamizer~~ randomizer for pokemon.
 - So
 - Cool
 
+
+<scrip>$( "#target" ).click(function() {
+  alert( "Handler for .click() called." );
+});
+</script>
 
 Syntax highlighted code block
 
