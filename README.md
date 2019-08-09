@@ -57,7 +57,7 @@ For the last slot it is really just what your team needs most. Also, Water Pulse
 
 For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this].(https://pokemondb.net/pokedex/clawitzer)
 
-I'll probably do alot of that kind af pokemon stuff and randomly post moveset and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :-)
+I'll probably do alot of that kind af pokemon stuff and randomly post moveset and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). (Not related to pokemon)
 
