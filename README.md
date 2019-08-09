@@ -12,7 +12,7 @@
 
     return this;
 };
-$('ul').randomize();
+
 </script>
  
 <div id="text"></div>
@@ -38,7 +38,7 @@ I am planning to make a ~~randamizer~~ randomizer for pokemon.
 
 
 <script>$( "#target" ).click(function() {
-  alert( "Handler for .click() called." );
+  $('ul').randomize();
 });
 </script>
 
