@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ~~Markdown~~ 
 
-<div id="target">RANDOMIZE</div>
+<button id="target">RANDOMIZE</button>
 
 
 I am planning to make a ~~randamizer~~ randomizer for pokemon.
