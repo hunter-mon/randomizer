@@ -30,7 +30,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <button id="target">RANDOMIZE</button>
 
 
-I am planning to make a ~~randamizer~~ randomizer for pokemon.
+To randomize, click RANDOMIZE.
 - Squirtle
 - Popplio
 - Mudkip
