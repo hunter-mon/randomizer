@@ -45,9 +45,9 @@ Ability: Mega Launcher
 
 Moveset:
 
--Ice Beam
+- Ice Beam
 
--Hidden Power Ground
+- Hidden Power Ground
 
 - Water Pulse/Scald
 
