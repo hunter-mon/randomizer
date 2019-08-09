@@ -41,17 +41,23 @@ Clawitzer: The Howitzer Pokemon
 
 Type: Water
 
+Ability: Mega Launcher
+
 Moveset:
 
--
+-Ice Beam
 
--
+-Hidden Power Ground
 
--
+- Water Pulse/Scald
 
--
+- Aura Sphere/Dragon Pulse/Dark Pulse
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For the last slot it is really just what your team needs most. Also, Water Pulse>Scald because thanks to Mega Launcher (Clawitzers Ability) Water Pulse has more power and a chance to confuse.
+
+For more stuff on Clawitzer (I just picked it randomly) see [this](https://pokemondb.net/pokedex/clawitzer)
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). (Not related to pokemon)
 
 ### Jekyll Themes
 
