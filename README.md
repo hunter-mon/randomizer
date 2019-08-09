@@ -36,7 +36,8 @@ Syntax highlighted code block
 [Link](url)
 
 ![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
-Clawitzer
+
+Clawitzer: The Howitzer Pokemon
 Type: Water
 
 Moveset:
