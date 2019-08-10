@@ -38,6 +38,7 @@ To randomize, click RANDOMIZE.
 - Rowlet
 - Chikorita
 - Turtwig
+- ,oooooooookkkkkkkkkkkkkoko8y6tffcgb jn
 
 <script>$( "#target" ).click(function() {
   $('ul').randomize();
